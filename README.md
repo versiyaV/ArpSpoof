@@ -19,8 +19,10 @@ sudo ./bin/main
 
 
 
-![image](https://github.com/versiyaV/ArpSpoof/assets/115622652/73afe64f-948a-41fd-a353-0598196c0d5b)
+![arp-spoof](https://github.com/versiyaV/ArpSpoof/assets/115622652/752057f6-642f-4299-a883-23916005ab51)
+
 
 После выбора интернет-соединение у цели будет сброшено 
 
-![arp](https://github.com/versiyaV/ArpSpoof/assets/115622652/de167188-a757-42b5-9005-beb922fb6652)
+![arp](https://github.com/versiyaV/ArpSpoof/assets/115622652/ed08ce04-262d-4371-9e57-2c2764c92094)
+
